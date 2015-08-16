@@ -2,3 +2,4 @@ hello,this is a text to test branch.
 good.
 Creating a new branch is quick and very simple.
 create a new branch named dev.
+OK,the bug 101 is fixed now.
