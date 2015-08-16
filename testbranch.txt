@@ -1,2 +1,3 @@
 hello,this is a text to test branch.
-Creating a new branch is quick & very simple.
+good.
+Creating a new branch is quick and very simple.
